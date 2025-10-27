@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Abadypog
-- 👀 I’m interested in ... web development
+- 👋 Hi, I’m Abdi
+- 👀 I’m interested in ... web development and ERP
 - 🌱 I’m currently learning ...front end development
 - 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me ... @abadypog12gmail.com
